@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+
+    <!-- METADATA -->
+
+    <title>Conceived In Liberty</title>
+    <link>https://cil-podcast.github.io</link>
+    <description>Three friends run an imaginary dictatorship on a remote Pacific island.</description>
+    <language>en-us</language>
+    <image>
+      <!-- TODO draw that shit -->
+    </image>
+
+    <!-- FEED ITEMS (EPISODES) -->
+
+    <item>
+      <title>1: Conceived With Liberty</title>
+      <pubDate>TBD</pubDate>
+      <link>TBD</link>
+      <description>Our story begins...</description>
+      <author>us!</author>
+      <category>politics</category>
+      <enclosure url="" length="" type="audio/mp3" />
+    </item>
+
+  </channel>
+</rss>
