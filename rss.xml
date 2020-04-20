@@ -11,9 +11,10 @@
         frequent tangents into current events, computer science, math, and daily
         life in the COVID pandemic. Join the Party!
     </description>
-    <category>government</category>
     <language>en-us</language>
-    <link>https://cil-podcast.github.io/rss.xml</link>
+    <itunes:category>government</itunes:category>
+    <itunes:explicit>yes</itunes:explicit>
+    <link>https://cil-podcast.github.io</link>
     <copyright>https://cil-podcast.github.io/LICENSE</copyright>
     <image>
       <title>Conceived In Liberty - Album Art</title>
@@ -36,6 +37,7 @@
           twisting the good word of the U.S. Constitution, Casey's cat's bedtime,
           baking a nation from scratch.
       </description>
+      <itunes:explicit>yes</itunes:explicit>
       <link>https://cil-podcast.github.io/episodes/ep1.mp3</link>
       <enclosure url="https://cil-podcast.github.io/episodes/ep1.mp3" length="52800350" type="audio/mp3" />
     </item>
