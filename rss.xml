@@ -11,7 +11,7 @@
         frequent tangents into current events, computer science, math, and daily
         life in the COVID pandemic. Join the Party!
     </description>
-    <category>social sciences</category>
+    <category>government</category>
     <language>en-us</language>
     <link>https://cil-podcast.github.io/rss.xml</link>
     <copyright>https://cil-podcast.github.io/LICENSE</copyright>
@@ -19,8 +19,8 @@
       <title>Conceived In Liberty - Album Art</title>
       <link>https://cil-podcast.github.io</link>
       <url>https://cil-podcast.github.io/CIL_albumart.png</url>
-      <width>2062</width>
-      <height>2062</height>
+      <width>1400</width>
+      <height>1400</height>
     </image>
 
     <!-- FEED ITEMS (EPISODES) -->
