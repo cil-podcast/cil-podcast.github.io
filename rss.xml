@@ -5,23 +5,39 @@
     <!-- METADATA -->
 
     <title>Conceived In Liberty</title>
-    <link>https://cil-podcast.github.io</link>
-    <description>Three friends run an imaginary dictatorship on a remote Pacific island.</description>
+    <description>
+        Three friends run an imaginary dictatorship on a remote Pacific island, 
+        exploring how dictatorships operate and how they can be prevented. Expect
+        frequent tangents into current events, computer science, math, and daily
+        life in the COVID pandemic. Join the Party!
+    </description>
+    <category>social sciences</category>
     <language>en-us</language>
+    <link>https://cil-podcast.github.io/rss.xml</link>
+    <copyright>https://cil-podcast.github.io/LICENSE</copyright>
     <image>
-      <!-- TODO draw that shit -->
+      <title>Conceived In Liberty - Album Art</title>
+      <link>https://cil-podcast.github.io</link>
+      <url>https://cil-podcast.github.io/CIL_albumart.png</url>
+      <width>2062</width>
+      <height>2062</height>
     </image>
 
     <!-- FEED ITEMS (EPISODES) -->
 
     <item>
       <title>1: Conceived With Liberty</title>
-      <pubDate>TBD</pubDate>
-      <link>TBD</link>
-      <description>Our story begins...</description>
-      <author>us!</author>
-      <category>politics</category>
-      <enclosure url="" length="" type="audio/mp3" />
+      <pubDate>Mon, 20 Apr 2020</pubDate>
+      <description>
+          Three friends finally act on their idea to start a podcast.
+
+          Talking points include: who we are, COVID-19, Paris Hilton, the biggest goldfish,
+          state-controlled media in Hungary, Bloomberg's coverage of Bloomberg's campaign,
+          twisting the good word of the U.S. Constitution, Casey's cat's bedtime,
+          baking a nation from scratch.
+      </description>
+      <link>https://cil-podcast.github.io/episodes/ep1.mp3</link>
+      <enclosure url="https://cil-podcast.github.io/episodes/ep1.mp3" length="52800350" type="audio/mp3" />
     </item>
 
   </channel>
